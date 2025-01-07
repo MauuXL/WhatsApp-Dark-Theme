@@ -9,7 +9,8 @@ body {
 
 /*Extension audio a texto*/
 #popupButton {
-  opacity: 0;
+  /* opacity: 0; */
+  display: none !important;
 }
 .ant-btn {
   display: none !important;
@@ -22,6 +23,10 @@ body {
 .kaption-privacy-btn-on,
 .kaption-privacy-btn-mid {
   background-color: black !important;
+}
+#free-old-plan-card,
+.ant-card-body {
+  display: none !important;
 }
 /*Extensión wa web plus*/
 
@@ -60,6 +65,7 @@ body {
   /*Barra de la izquierda*/
   --navbar-background: black !important;
   --unread-marker-background: white !important;
+  --panel-header-icon: white !important;
 
   /*Lista de chats*/
   --background-default-active: #272727 !important;
@@ -348,4 +354,8 @@ body {
 /*Fix logo de mensajes temporales*/
 .x12fk4p8 g {
   fill: white !important;
+}
+/*FIx iconos barra izquierda por actualizacion de whatsapp*/
+.x1n2onr6 span svg {
+  color: white !important;
 }
