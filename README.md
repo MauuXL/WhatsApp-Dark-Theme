@@ -1,5 +1,5 @@
-# **WhatsApp Dark Theme**
-![WhatsApp-Dark-Theme](./images/example.png)
+# **Whatsapp Dark Theme**
+![Whatsapp-Dark-Theme](./images/example.png)
 ## Instalación
 ### Windows
 1. Descargar y descomprimir el archivo "Whatsapp-Dark-Theme.zip" en la ruta que desee.
