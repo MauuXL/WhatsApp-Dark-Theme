@@ -9,5 +9,5 @@
    ### Linux
   1. Clone el repositorio en la direccion que desea, "git clone https://github.com/MauuXL/whatsapp-dark-theme.git".
   2. Ahora puede optar por hacerlo "manual" de la misma forma que en windows o por terminal:\
-    -Google Chrome: "google-chrome --load-extension=/ruta/de/la/carpeta/de/la/extensión".\
-    -Firefox: "firefox --load-extension=/ruta/de/la/carpeta/de/la/extensión".
+    - Google Chrome: "google-chrome --load-extension=/ruta/de/la/carpeta/de/la/extensión".\
+    - Firefox: "firefox --load-extension=/ruta/de/la/carpeta/de/la/extensión".
